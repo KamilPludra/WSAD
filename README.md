@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == Witamy w serwisie społecznościowym Your Bunch. ==
 
  Jest to praca inżynierska, którą napisał Kamil Pludra.
@@ -6,3 +7,9 @@
 
 
 
+=======
+WSAD
+====
+
+WSAD
+>>>>>>> d4018fb59749f174746cf1a6d33af44d5ab283b0
